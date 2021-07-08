@@ -1,9 +1,9 @@
 import React from "react";
 import "./HeroSection.css";
-import { Button } from "./Button";
+import { Button } from "../Button";
 import { Link } from "react-router-dom";
 
-function HeroSectionTOS({
+function HeroSection({
   lightBg,
   topLine,
   lightText,
@@ -11,7 +11,6 @@ function HeroSectionTOS({
   headline,
   description,
   buttonLabel,
-  buttonLabel2,
   img,
   alt,
   imgStart,
@@ -44,16 +43,9 @@ function HeroSectionTOS({
                 >
                   {description}
                 </p>
-
-                <Link to="/policy">
-                  <Button buttonSize="btn--wide" buttonColor="blue">
+                <Link to="/sign-up">
+                  <Button buttonSize="btn--wide" buttonColor="red">
                     {buttonLabel}
-                  </Button>
-                </Link>
-
-                <Link to="/terms">
-                  <Button buttonSize="btn--wide" buttonColor="blue">
-                    {buttonLabel2}
                   </Button>
                 </Link>
               </div>
@@ -70,4 +62,4 @@ function HeroSectionTOS({
   );
 }
 
-export default HeroSectionTOS;
+export default HeroSection;

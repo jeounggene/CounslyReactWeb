@@ -1,6 +1,6 @@
 import React from "react";
 import "./HeroSection.css";
-import { Button } from "./Button";
+import { Button } from "../Button";
 import { Link } from "react-router-dom";
 
 function HeroSectionDownload({
@@ -44,7 +44,7 @@ function HeroSectionDownload({
                   {description}
                 </p>
                 <a href="https://play.google.com/store?hl=en_US&gl=US">
-                  <Button buttonSize="btn--wide" buttonColor="blue">
+                  <Button buttonSize="btn--wide" buttonColor="red">
                     {buttonLabel}
                   </Button>
                 </a>

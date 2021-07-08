@@ -1,6 +1,6 @@
-import React from 'react';
-import HeroSectionDownload from '../../HeroSectionDownload';
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
+import React from "react";
+import HeroSectionDownload from "../../HeroSection/HeroSectionDownload";
+import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from "./Data";
 
 function Download() {
   return (

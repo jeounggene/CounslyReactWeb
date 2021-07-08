@@ -1,5 +1,5 @@
 import React from "react";
-import HeroSectionTOS from "../../HeroSectionTOS";
+import HeroSectionTOS from "../../HeroSection/HeroSectionTOS";
 import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from "./Data";
 
 function AboutUs() {

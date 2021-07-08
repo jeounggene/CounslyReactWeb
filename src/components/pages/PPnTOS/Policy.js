@@ -1,5 +1,5 @@
 import React from "react";
-import HeroSectionText from "../../HeroSectionText";
+import HeroSectionText from "../../HeroSection/HeroSectionText";
 import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from "./Data";
 
 function Policy() {
