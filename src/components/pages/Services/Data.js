@@ -2,54 +2,39 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Exclusive Access',
-  headline: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-  description:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris',
-  buttonLabel: 'Get Started',
-  imgStart: '',
-  img: 'images/',
-  alt: 'some image'
+  topLine: "MAXIMIZE YOUR POTENTIAL",
+  headline: "Personalized Application Feedback",
+  description: "College admissions feedback tailored specifically for you.",
+  buttonLabel: "Get Fitted",
+  imgStart: "",
+  img: "images/dressmaker.svg",
+  alt: "tailored",
 };
 
 export const homeObjTwo = {
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
-  topLine: '100% SECURE',
-  headline: 'Stay protected 24/7 anywhere anytime',
-  description:
-    'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
-  buttonLabel: 'Learn More',
-  imgStart: '',
-  img: 'images/svg-5.svg',
-  alt: 'Vault'
-};
-
-export const homeObjThree = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: 'EASY SETUP',
-  headline: 'Super fast and simple onboarding process',
+  topLine: "STAY ON TRACK",
+  headline: "College Application and Info",
   description:
-    "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-  buttonLabel: 'Start Now',
-  imgStart: 'start',
-  img: 'images/svg-7.svg',
-  alt: 'Vault'
+    "Store your college application and have it availble to you at anytime.",
+  buttonLabel: "Begin Application",
+  imgStart: "start",
+  img: "images/file.svg",
+  alt: "file",
 };
 
-export const homeObjFour = {
+export const homeObjThree = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'DATA ANALYTICS',
-  headline: 'Every transaction is stored on our secure cloud database',
+  topLine: "FIND YOUR PASSION",
+  headline: "Explore New Opprotunities",
   description:
-    'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
-  buttonLabel: 'Sign Up Now',
-  imgStart: 'start',
-  img: 'images/svg-8.svg',
-  alt: 'Vault'
+    "Using our A.I. suggestions try out featured internships and projects.",
+  buttonLabel: "Begin Exploring",
+  imgStart: "",
+  img: "images/mortarboard.svg",
+  alt: "bag",
 };

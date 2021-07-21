@@ -21,7 +21,7 @@ export const homeObjTwo = {
   description: "",
   buttonLabel: "Privacy Policy",
   buttonLabel2: "Terms of Service",
-  imgStart: "",
+  imgStart: "start",
   img: "images/compliant.svg",
   alt: "some image",
 };
