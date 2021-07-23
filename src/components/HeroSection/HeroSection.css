@@ -3,6 +3,24 @@
   padding: 120px 0;
 }
 
+.home__hero-section-main {
+  background-image: url(../../components/backgroundImg/chip1.svg);
+  background-size: 110%;
+  background-position: 10% 40%;
+  color: #fff;
+  padding: 120px 0;
+}
+
+@media screen and (max-width: 900px) {
+  .home__hero-section-main {
+    background-image: url(../../components/backgroundImg/chip2.svg);
+    background-size: 150%;
+    background-position: 50% 40%;
+    color: #fff;
+    padding: 120px 0;
+  }
+}
+
 .home__hero-row {
   align-items: center;
 }

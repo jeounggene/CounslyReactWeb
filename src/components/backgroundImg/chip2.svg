@@ -1,0 +1,28 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <line transform="rotate(0.351144 193 81.5)" stroke="#000" stroke-width="10" id="svg_5" y2="173.68632" x2="274.36369" y1="-10.68634" x1="111.6363" fill="none"/>
+  <line stroke-width="10" id="svg_6" y2="379" x2="275" y1="171" x1="273" stroke="#000" fill="none"/>
+  <line transform="rotate(0.351144 244 180)" stroke-width="10" id="svg_12" y2="213" x2="274" y1="147" x1="214" stroke="#000" fill="none"/>
+  <line transform="rotate(0.351144 304 408)" stroke-width="10" id="svg_13" y2="441" x2="334" y1="375" x1="274" stroke="#000" fill="none"/>
+  <line stroke-width="10" id="svg_14" y2="645" x2="334" y1="437" x1="332" stroke="#000" fill="none"/>
+  <line stroke-width="10" id="svg_15" y2="605" x2="364" y1="397" x1="362" stroke="#000" fill="none"/>
+  <line stroke="#000" id="svg_16" y2="296" x2="423" y1="401" x1="361" stroke-width="10" fill="none"/>
+  <line stroke-width="10" id="svg_18" y2="298" x2="422" y1="90" x1="420" stroke="#000" fill="none"/>
+  <line stroke-width="10" id="svg_19" y2="354" x2="387" y1="146" x1="385" stroke="#000" fill="none"/>
+  <ellipse rx="10" id="svg_20" cy="138" cx="385" stroke-width="10" stroke="#000" fill="none"/>
+  <line stroke="#000" id="svg_21" y2="-61.99999" x2="520" y1="93" x1="420" stroke-width="10" fill="none"/>
+  <line stroke-width="10" id="svg_23" y2="547" x2="350" y1="339" x1="348" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-width="10" id="svg_25" y2="381" x2="349" y1="298" x1="275" fill="none"/>
+  <line stroke-width="10" id="svg_26" y2="609" x2="409" y1="543" x1="349" stroke="#000" fill="none"/>
+  <line stroke-width="10" id="svg_28" y2="773" x2="439" y1="565" x1="437" stroke="#000" fill="none"/>
+  <line stroke="#000" id="svg_29" y2="464" x2="498" y1="569" x1="436" stroke-width="10" fill="none"/>
+  <line stroke-width="10" id="svg_30" y2="466" x2="497" y1="258" x1="495" stroke="#000" fill="none"/>
+  <line stroke-width="10" id="svg_31" y2="522" x2="462" y1="314" x1="460" stroke="#000" fill="none"/>
+  <ellipse rx="10" id="svg_32" cy="306" cx="460" stroke-width="10" stroke="#000" fill="none"/>
+  <line stroke="#000" id="svg_33" y2="107.00001" x2="594" y1="262" x1="494" stroke-width="10" fill="none"/>
+  <line stroke="#000" stroke-width="10" id="svg_34" y2="343" x2="349" y1="260" x1="275" fill="none"/>
+  <ellipse rx="10" id="svg_35" cy="100" cx="600" stroke-width="10" stroke="#000" fill="none"/>
+  <ellipse rx="10" id="svg_39" cy="138" cx="208" stroke-width="10" stroke="#000" fill="none"/>
+ </g>
+</svg>

@@ -18,7 +18,9 @@ function HeroSectionHome({
   return (
     <>
       <div
-        className={lightBg ? "home__hero-section" : "home__hero-section darkBg"}
+        className={
+          lightBg ? "home__hero-section-main" : "home__hero-section-main darkBg"
+        }
       >
         <div className="container">
           <div className="col-center">
