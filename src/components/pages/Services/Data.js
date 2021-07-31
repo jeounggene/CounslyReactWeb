@@ -19,7 +19,7 @@ export const homeObjTwo = {
   headline: "College Application and Info",
   description:
     "Store your college application and have it availble to you at anytime.",
-  buttonLabel: "Begin Application",
+  buttonLabel: "Start Application",
   imgStart: "start",
   img: "images/file.svg",
   alt: "file",

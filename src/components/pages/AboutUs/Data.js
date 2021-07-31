@@ -16,12 +16,25 @@ export const homeObjTwo = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
+  topLine: "INSIDE COUNSLY",
+  headline: "Meet The Team",
+  description: "Click here to see the people behind Counsly.",
+  buttonLabel: "Get Started",
+  imgStart: "start",
+  img: "images/consultation.svg",
+  alt: "some image",
+};
+
+export const homeObjThree = {
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
   topLine: "PRIVACY POLICY",
   headline: "Read our Privacy Policy and Terms of Service",
   description: "",
   buttonLabel: "Privacy Policy",
   buttonLabel2: "Terms of Service",
-  imgStart: "start",
+  imgStart: "",
   img: "images/compliant.svg",
   alt: "some image",
 };

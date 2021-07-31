@@ -8,7 +8,8 @@ function AboutUs() {
   return (
     <>
       <HeroSection {...homeObjOne} />
-      <HeroSectionTOS {...homeObjTwo} />
+      <HeroSection {...homeObjTwo} />
+      <HeroSectionTOS {...homeObjThree} />
     </>
   );
 }

@@ -14,7 +14,7 @@
 @media screen and (max-width: 900px) {
   .home__hero-section-main {
     background-image: url(../../components/backgroundImg/chip2.svg);
-    background-size: 150%;
+    background-size: 290%;
     background-position: 50% 40%;
     color: #fff;
     padding: 120px 0;
@@ -151,16 +151,16 @@ img {
 
 /* For pdf */
 .react-pdf__Page {
-  margin-top: 10px;
+  /* margin-top: 10px; */
 }
 .react-pdf__Page__textContent {
-  border: 1px solid darkgrey;
+  /* border: 1px solid darkgrey;
   box-shadow: 5px 5px 5px 1px #ccc;
-  border-radius: 5px;
+  border-radius: 5px; */
 }
 
 .react-pdf__Page__annotations.annotationLayer {
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 .react-pdf__Page__canvas {
