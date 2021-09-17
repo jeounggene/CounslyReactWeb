@@ -28,7 +28,6 @@ function App() {
           {/* <Route path='/download' component={Download} /> */}
         </Switch>
       </ScrollToTop>
-
       <Footer />
     </Router>
   );

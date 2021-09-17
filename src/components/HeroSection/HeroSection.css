@@ -47,7 +47,7 @@
 .col {
   margin-bottom: 15px;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 50px;
   flex: 1;
   max-width: 50%;
   flex-basis: 50%;
