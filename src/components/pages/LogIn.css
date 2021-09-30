@@ -1,0 +1,25 @@
+.login-container {
+  display: flex;
+  flex: 1;
+  min-height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+}
+
+.input {
+  height: 50px;
+  font-size: 25px;
+}
+
+@media screen and (max-width: 960px) {
+  .login-form {
+    max-width: 300px;
+  }
+}
