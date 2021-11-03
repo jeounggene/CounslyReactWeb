@@ -13,7 +13,7 @@
 
 .btn--primary {
   background-color: var(--primary);
-  color: #74c36b;
+  color: #6baa75;
   border: 1px solid var(--primary);
 }
 
@@ -88,20 +88,14 @@
   width: 100%;
 }
 
-.blue {
-  background-color: #f00946;
-  color: #fff;
-  border: none;
-}
-
-.red {
-  background-color: #f00946;
+.white {
+  background-color: #ffffff;
   color: #fff;
   border: none;
 }
 
 .primary {
-  background-color: #74c36b;
+  background-color: #6baa75;
   color: #fff;
   border: none;
 }
@@ -113,7 +107,7 @@
 }
 
 .green {
-  background: #74c36b;
+  background: #6baa75;
   color: #fff;
   border: none;
 }

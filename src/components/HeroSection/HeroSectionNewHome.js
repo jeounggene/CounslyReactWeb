@@ -3,7 +3,7 @@ import "./HeroSection.css";
 import { Button } from "../Button";
 import { Link } from "react-router-dom";
 
-function HeroSection({
+function HeroSectionNewHome({
   lightBg,
   topLine,
   lightText,
@@ -18,7 +18,9 @@ function HeroSection({
   return (
     <>
       <div
-        className={lightBg ? "home__hero-section" : "home__hero-section darkBg"}
+        className={
+          lightBg ? "home__hero-section-main" : "home__hero-section-main darkBg"
+        }
       >
         <div className="container">
           <div
@@ -43,11 +45,11 @@ function HeroSection({
                 >
                   {description}
                 </p>
-                {/* <Link to="/sign-up">
-                  <Button buttonSize="btn--wide" buttonColor="red">
+                <Link to="/sign-up">
+                  <Button buttonSize="btn--wide" buttonColor="white">
                     {buttonLabel}
                   </Button>
-                </Link> */}
+                </Link>
               </div>
             </div>
             <div className="col">
@@ -62,4 +64,4 @@ function HeroSection({
   );
 }
 
-export default HeroSection;
+export default HeroSectionNewHome;

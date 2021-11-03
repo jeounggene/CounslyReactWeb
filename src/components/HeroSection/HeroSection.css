@@ -4,20 +4,22 @@
 }
 
 .home__hero-section-main {
-  background-image: url(../../components/backgroundImg/chip1.svg);
+  /* background-image: url(../../components/backgroundImg/chip1.svg);
   background-size: 110%;
-  background-position: 10% 40%;
+  background-position: 10% 40%; */
   color: #fff;
   padding: 120px 0;
+  background: radial-gradient(50% 50% at 50% 50%, #6baa75 0%, #6baa75 100%);
 }
 
 @media screen and (max-width: 900px) {
   .home__hero-section-main {
-    background-image: url(../../components/backgroundImg/chip2.svg);
+    /* background-image: url(../../components/backgroundImg/chip2.svg);
     background-size: 290%;
-    background-position: 50% 40%;
+    background-position: 50% 40%; */
     color: #fff;
     padding: 120px 0;
+    background: radial-gradient(50% 50% at 50% 50%, #6baa75 0%, #6baa75 100%);
   }
 }
 
@@ -85,25 +87,27 @@
 
 .heading {
   margin-bottom: 24px;
-  font-size: 48px;
-  line-height: 1.1;
-  font-weight: 600;
-  color: #f7f8fa;
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 700;
+  color: #000000;
 }
 
 .dark {
-  color: #74c36b;
+  color: #ffffff;
 }
 
 .darkBg {
-  background-color: #74c36b;
+  background-color: #6baa75;
 }
 
 .home__hero-subtitle {
   max-width: 440px;
   margin-bottom: 35px;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 25px;
+  line-height: 37.5px;
+  font-weight: 400;
+  color: #000000;
 }
 
 .home__hero-subtitle-center {
